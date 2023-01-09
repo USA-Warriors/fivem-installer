@@ -8,7 +8,7 @@ FiveM Installer for Ubuntu 20.04
 
 To use these options, pass them as command line arguments when running the script. For example, to install FiveM in the /opt/fivem directory without installing the dependencies, you would run the script like this:
 
-# ./install-fivem.sh -d /opt/fivem -n
+# ./install.sh -d /opt/fivem -n
 
 The script also includes error handling to check for any errors that may occur during the installation process. If an error is encountered, the script will display an error message and exit with a non-zero exit code.
 
